@@ -10,27 +10,11 @@ h1 {
     font-family: 'kreon';
     font-weight: 600;
 }
-nav {
-    font-family: 'roboto';
-    font-weight: 500;
-    background-color: cornsilk;
-}
-.img1 { 
-    width: 420px;
-    height: 220px;
-    background-image: url(./programacion.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.a1{
+.a1 {
     font-family: 'kreon';
     font-weight: 600;
 }
-.a2 {
-    font-family: 'roboto';
-    font-weight: 500;
-}
-footer {
+div {
     font-family: 'roboto';
     font-weight: 500;
 }
