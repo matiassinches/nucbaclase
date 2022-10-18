@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'kreon';
+    src: url(./Fonts/Kreon/Kreon-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: 'roboto';
+    src: url(./Fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf);
+}
+h1 {
+    font-family: 'kreon';
+    font-weight: 600;
+}
+section {
+    font-family: 'roboto';
+    font-weight: 500;
+    border: 2px solid black;
+    padding: 5px 5px 5px 5px;
+    background-color: #AEFDFC;
+}
