@@ -11,11 +11,15 @@ h1 {
     font-weight: 600;
 }
 nav {
+    border: 2px solid black;
+    margin-bottom: 10px;
     font-family: 'roboto';
     font-weight: 500;
-    background-color: cornsilk;
+    background-color: #AEFDFC;
 }
 .img1 { 
+    border: 2px solid black;
+    background-position: center;
     width: 420px;
     height: 220px;
     background-image: url(./programacion.jpg);
@@ -31,6 +35,9 @@ nav {
     font-weight: 500;
 }
 footer {
+    background-color: #AEFDFC;
+    margin-top: 10px;
+    border: 2px solid black;
     font-family: 'roboto';
     font-weight: 500;
 }

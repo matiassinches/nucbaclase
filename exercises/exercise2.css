@@ -1,34 +1,36 @@
 @font-face {
-    font-family: 'kreon';
-    src: url(./Fonts/Kreon/Kreon-VariableFont_wght.ttf);
-}
-@font-face {
     font-family: 'roboto';
     src: url(./Fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf);
 }
+@font-face {
+    font-family: 'kreon';
+    src: url(./Fonts/Kreon/Kreon-VariableFont_wght.ttf);
+}
+.h3 {
+    font-family: 'kreon';
+    font-weight: 600;
+}
+.a1 {
+    font-family: 'roboto';
+    font-weight: 500;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    background-color: #AEFDFC;
+}
 .a2 {
+    font-family: 'roboto';
+    font-weight: 500;
     border: 2px solid black;
     margin-bottom: 10px;
     background-color: #AEFDFC;
 }
 .a3 {
+    font-family: 'roboto';
+    font-weight: 500;
     border: 2px solid black;
-    margin-bottom: 10px;
     background-color: #AEFDFC;
 }
 .a4 {
-    border: 2px solid black;
-    background-color: #AEFDFC;
-}
-h1 {
     font-family: 'kreon';
     font-weight: 600;
-}
-.a1 {
-    font-family: 'kreon';
-    font-weight: 600;
-}
-div {
-    font-family: 'roboto';
-    font-weight: 500;
 }
