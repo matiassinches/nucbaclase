@@ -23,17 +23,19 @@ nav {
     width: 420px;
     height: 220px;
     background-image: url(./programacion.jpg);
+    background-color: white;
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 10px;
 }
 .img2 {
     border: 2px solid black;
-    width: 420px;
+    width: 250px;
     height: 220px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    background-color: white;
     background-image: url(./FOTO\ PERFIL.jpg);
 }
 .a1{
