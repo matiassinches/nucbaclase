@@ -25,6 +25,16 @@ nav {
     background-image: url(./programacion.jpg);
     background-size: contain;
     background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.img2 {
+    border: 2px solid black;
+    width: 420px;
+    height: 220px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(./FOTO\ PERFIL.jpg);
 }
 .a1{
     font-family: 'kreon';
@@ -33,6 +43,10 @@ nav {
 .a2 {
     font-family: 'roboto';
     font-weight: 500;
+}
+.a3 {
+    border: 2px solid black;
+    background-color: #AEFDFC;
 }
 footer {
     background-color: #AEFDFC;
