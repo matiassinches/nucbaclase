@@ -16,6 +16,7 @@
     border: 2px solid black;
     margin-bottom: 10px;
     background-color: #AEFDFC;
+    padding: 0px 10px 10px 10px;
 }
 .a2 {
     font-family: 'roboto';
@@ -23,14 +24,17 @@
     border: 2px solid black;
     margin-bottom: 10px;
     background-color: #AEFDFC;
+    padding: 0px 10px 10px 10px;
 }
 .a3 {
     font-family: 'roboto';
     font-weight: 500;
     border: 2px solid black;
     background-color: #AEFDFC;
+    padding: 0px 10px 10px 10px;
 }
 .a4 {
     font-family: 'kreon';
     font-weight: 600;
+    padding: 0px 10px 10px 10px;
 }
