@@ -16,27 +16,57 @@ nav {
     font-family: 'roboto';
     font-weight: 500;
     background-color: #AEFDFC;
+    padding: 0px 10px 10px 10px;
 }
 .img1 { 
     border: 2px solid black;
     background-position: center;
-    width: 420px;
+    width: 250px;
     height: 220px;
-    background-image: url(./programacion.jpg);
+    margin-left: 10px;
+    background-image: url(./FOTO\ PERFIL.jpg);
     background-color: white;
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 .img2 {
     border: 2px solid black;
     width: 250px;
     height: 220px;
+    margin-left: 10px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-color: white;
-    background-image: url(./FOTO\ PERFIL.jpg);
+    background-image: url(./pescar.jpg);
+}
+.img3 { 
+    border: 2px solid black;
+    background-position: center;
+    width: 250px;
+    height: 220px;
+    margin-left: 10px;
+    background-image: url(./salesforce.jpg);
+    background-color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img4 { 
+    border: 2px solid black;
+    background-position: center;
+    width: 250px;
+    height: 220px;
+    margin-left: 10px;
+    background-image: url(./nucba.png);
+    background-color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .a1{
     font-family: 'kreon';
@@ -49,6 +79,7 @@ nav {
 .a3 {
     border: 2px solid black;
     background-color: #AEFDFC;
+    padding: 0px 10px 10px 10px;
 }
 footer {
     background-color: #AEFDFC;
@@ -56,4 +87,5 @@ footer {
     border: 2px solid black;
     font-family: 'roboto';
     font-weight: 500;
+    padding: 0px 10px 10px 10px;
 }
